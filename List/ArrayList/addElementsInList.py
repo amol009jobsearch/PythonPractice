@@ -1,3 +1,8 @@
+'''
+There are two ways by which we can add elements to list
+    1) Append - add the elements at the last
+    2) insert - add the elements at the specific index
+'''
 colorList=["Yellow","Blue","Orange","Red"]
 
 # print elements from list
